@@ -1,2 +1,2 @@
 # product-service
-# application
+# app
